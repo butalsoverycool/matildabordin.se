@@ -6,5 +6,6 @@
 ### built with WP in march 2019
 #
 ```sh
+$ repo consists of WP themes folder
 $ cd https://matildabordin.se/ to experience
 ```
